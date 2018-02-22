@@ -1,0 +1,4 @@
+include 'routeminer_main'
+include 'src:test'
+findProject(':src:test')?.name = 'routeminer_test'
+

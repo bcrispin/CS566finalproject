@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/final-project.iml" filepath="$PROJECT_DIR$/.idea/modules/final-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/final-project-routeminer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/final-project-routeminer_test.iml" group="routeminer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/final-project_main.iml" filepath="$PROJECT_DIR$/.idea/modules/final-project_main.iml" group="final-project" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/final-project_test.iml" filepath="$PROJECT_DIR$/.idea/modules/final-project_test.iml" group="final-project" />
+      <module fileurl="file://$PROJECT_DIR$/routeminer/routeminer.iml" filepath="$PROJECT_DIR$/routeminer/routeminer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/routeminer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/routeminer_main.iml" group="routeminer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/routeminer_main/routeminer_main_main.iml" filepath="$PROJECT_DIR$/.idea/modules/routeminer_main/routeminer_main_main.iml" group="routeminer_main" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/routeminer_main/routeminer_main_test.iml" filepath="$PROJECT_DIR$/.idea/modules/routeminer_main/routeminer_main_test.iml" group="routeminer_main" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/routeminer_main/routeminer_main~1.iml" filepath="$PROJECT_DIR$/.idea/modules/routeminer_main/routeminer_main~1.iml" group="routeminer_main" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/routeminer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/routeminer_test.iml" group="src/routeminer_test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/src/src.iml" filepath="$PROJECT_DIR$/.idea/modules/src/src.iml" group="src" />
+    </modules>
+  </component>
+</project>
